@@ -45,15 +45,19 @@ Fire Detection is an intelligent surveillance system designed to identify fire i
 <img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/6510c433-8c5d-411a-bbb3-06d6b65a5e3b" />
 
 
-### System Architecture
-<img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/25de8cb0-cd5a-4452-87b4-5aa2d9dc7545" />
+### Sample Input
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/3b9508a5-65b1-47dc-b655-b04931535311" />
 
-### SVM Confusion Matrix
-<img width="350" height="223" alt="image" src="https://github.com/user-attachments/assets/87efdeb7-f764-430b-b2e4-f171c9b064cc" />
 
-### System Accuracy
 
-<img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/b1abe7c4-2dbe-48fb-b4db-36d21b1149e5" />
+### Result
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/b1423d3d-7464-461a-8077-34bbef39ed8e" />
+
+
+### Alert
+
+<img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/e85b7fba-0d77-424c-9472-7535820efc1a" />
+
 
 
 
