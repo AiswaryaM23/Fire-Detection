@@ -46,17 +46,19 @@ Fire Detection is an intelligent surveillance system designed to identify fire i
 
 
 ### Sample Input
-<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/3b9508a5-65b1-47dc-b655-b04931535311" />
+<img width="600" height="400" alt="Picture1" src="https://github.com/user-attachments/assets/94818dfc-2986-4122-a5ba-37c5d58ab0f2" />
+
 
 
 
 ### Result
-<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/b1423d3d-7464-461a-8077-34bbef39ed8e" />
+<img width="600" height="400" alt="Picture2" src="https://github.com/user-attachments/assets/88b9bb64-5dbd-43ad-8824-30cec1a2f2e5" />
+
 
 
 ### Alert
 
-<img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/e85b7fba-0d77-424c-9472-7535820efc1a" />
+<img width="300" height="250" alt="Picture3" src="https://github.com/user-attachments/assets/790b6de2-430f-43ca-af82-e8a39e24cf55" />
 
 
 
