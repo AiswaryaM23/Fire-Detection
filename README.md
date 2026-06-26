@@ -88,9 +88,6 @@ Fire Detection is an intelligent surveillance system designed to identify fire i
 
 ---
 
-## 👤 Author
-
-**Aiswarya M**
 
 ---
 
